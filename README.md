@@ -8,10 +8,13 @@ This dashboard provides insights into various aspects of HR management, focusing
 HERE is my Dashboard  
 
 
-![](dashboardhr.png)
 
 
 ## Graphs and Insights
+
+
+![](dashboardhr.png)
+
 
 ### 1. Total Employee, Current Employee, Attrition Count
 - *Total Employee*: 1470

@@ -7,7 +7,9 @@ This dashboard provides insights into various aspects of HR management, focusing
 
 HERE is my Dashboard  
 
-![](dashboardhr.png)
+
+ ![](dashboardhr.png)
+
 
 ## Graphs and Insights
 

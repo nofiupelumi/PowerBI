@@ -13,7 +13,7 @@ HERE is my Dashboard
 ## Graphs and Insights
 
 
-![](dashboardhr.png)
+![](dashboard1.png)
 
 
 ### 1. Total Employee, Current Employee, Attrition Count
